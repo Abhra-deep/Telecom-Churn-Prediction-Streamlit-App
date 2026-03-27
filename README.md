@@ -2,7 +2,7 @@
 
 A machine learning web application that predicts whether a telecom customer is likely to churn, built using Python, Scikit-learn, and Streamlit.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://abhra-deep-telecom-churn.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://telecom-churn-prediction-app-abhradeep.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-abhra--deep-blue)](https://github.com/abhra-deep/Telecom-Churn-Prediction-Streamlit-App)
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 
@@ -22,7 +22,7 @@ Built as part of my AI/ML portfolio to demonstrate real-world machine learning d
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://abhra-deep-telecom-churn.streamlit.app/)
+👉 [Click here to try the app](https://telecom-churn-prediction-app-abhradeep.streamlit.app/)
 
 Enter customer details and instantly see:
 - Whether the customer is likely to churn
